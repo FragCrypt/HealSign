@@ -1,0 +1,6 @@
+name: HealSign
+main: me.FragCrypt.HealSign.main
+author: FragCrypt
+version: 0.1 Alpha
+description: >
+             Click on the sign and get healed!
